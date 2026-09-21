@@ -5,8 +5,20 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4ad977e8bafaecd44a38a84af2257c15
+  - enabled: 1
+    path: Assets/Scenes/Pledge.unity
+    guid: 5ed46ac71ea4b1041819bf0a84f97357
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: ec7f155e27c666044a03deb5a02e6ca9
+  - enabled: 1
+    path: Assets/Scenes/FinalEncounter.unity
+    guid: caa89601fc74faa4eb8941e055817108
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
